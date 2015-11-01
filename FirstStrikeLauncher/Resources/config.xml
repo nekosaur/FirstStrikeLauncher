@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>firststrike</Name>
+  <UpdatesUrl>http://test.fsmod.com/pubclient/</UpdatesUrl>
+  <!--<UpdatesUrl>http://fsmod.gamingdeluxe.net/downloads/pubclient/</UpdatesUrl>-->
+  <ApplicationUpdatesFeed>http://test.fsmod.com/launcher/UpdatesFeed.xml</ApplicationUpdatesFeed>
+  <UpdateBeforeLaunch>true</UpdateBeforeLaunch>
+  <Options />
+  <Arguments />
+  <Resolutions>
+    <string>800x600</string>
+    <string>1024x768</string>
+    <string>1280x720</string>
+    <string>1280x960</string>
+    <string>1366x768</string>
+    <string>1400x1050</string>
+    <string>1600x900</string>
+    <string>1600x1200</string>
+    <string>1680x1050</string>
+    <string>1920x1080</string>
+    <string>1920x1200</string>
+  </Resolutions>
+</Config>

@@ -1,0 +1,16 @@
+gui
+First Strike Mod Website.url
+firststrike.ico
+launcherlist.txt
+launcherversion.txt
+library.zip
+mirrorlist.txt
+MSVCP71.DLL
+MSVCR71.dll
+news.txt
+uninst.exe
+update.exe
+updaterlist.txt
+updaterversion.txt
+w9xpopen.exe
+xfire.data
